@@ -27,7 +27,7 @@ Variable for Energy Consumption Prediction
 **Pressure (from Chievres weather station)-** in mm Hg<br>
 **RH_out-** Humidity outside (from Chievres weather station), in %<br>
 **Wind speed (from Chievres weather station)-** in m/s<br>
-**Visibility (from Chievres weather station)-**in km<br>
+**Visibility (from Chievres weather station)-** in km<br>
 **Tdewpoint (from Chievres weather station)-** Â°C<br>
 **rv1-** Random variable 1, nondimensional<br>
 **rv2-** Random variable 2, nondimensional<br>
